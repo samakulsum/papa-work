@@ -43,7 +43,7 @@ a:focus {
 
 .profile p {
 	margin-top: 20px;
-	margin-bottom: 0;
+	margin-bottom: -10px;
 }
 
 .profile p a {
@@ -56,7 +56,7 @@ a:focus {
 	margin: 10px auto;
 	padding: 10px 20px;
 	display: flex;
-	justify-content: space-between;
+	/* justify-content: space-between; */
 	align-items: center;
 	border-radius: 30px;
 }
@@ -81,8 +81,6 @@ a:focus {
 	background-color: rgb(232, 186, 1);
 }
 
-.contact .row .right a.website {
-	background-color: rgb(157, 157, 157);
 }
 
 .connect a {
