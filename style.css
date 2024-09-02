@@ -43,7 +43,6 @@ a:focus {
 
 .profile p {
 	margin-top: 20px;
-	margin-bottom: -10px;
 }
 
 .profile p a {
@@ -79,8 +78,6 @@ a:focus {
 
 .contact .row .right a.mail {
 	background-color: rgb(232, 186, 1);
-}
-
 }
 
 .connect a {
