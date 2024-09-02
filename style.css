@@ -34,6 +34,7 @@ a:focus {
 .profile img {
 	width: 150px;
 	border-radius: 50%;
+    margin-top: 20px;   /*added */
 }
 
 .profile h1 {
@@ -42,6 +43,7 @@ a:focus {
 
 .profile p {
 	margin-top: 20px;
+	margin-bottom: 0;/*added*/
 }
 
 .profile p a {
