@@ -43,7 +43,7 @@ a:focus {
 
 .profile p {
 	margin-top: 20px;
-	margin-bottom: 0;/*added*/
+	margin-bottom: 0;
 }
 
 .profile p a {
@@ -53,7 +53,7 @@ a:focus {
 .contact .row {
 	background-color: rgba(255, 255, 255, 0.16);
 	max-width: 400px;
-	margin: 20px auto;
+	margin: 10px auto;
 	padding: 10px 20px;
 	display: flex;
 	justify-content: space-between;
